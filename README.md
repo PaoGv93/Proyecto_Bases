@@ -198,7 +198,6 @@ SELECT MAX(peso) FROM historiasUsuario WHERE peso IS NOT NULL;
 #LOGIN and session control in PHP using MySQL
 //Passwords save not in plain-text
  
-
 Users, projects and how the page works
  
 
